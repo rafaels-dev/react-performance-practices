@@ -1,0 +1,1 @@
+This repository is focused in show some examples of best practices for performance using React. 
